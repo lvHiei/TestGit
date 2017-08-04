@@ -11,3 +11,5 @@ this is added in test_branch to check merge no ff
 test pull no ff
 
 test pull no ff2
+
+test pull noff alais
