@@ -13,3 +13,6 @@ test pull no ff
 test pull no ff2
 
 test pull noff alais
+
+
+test git commit 1
